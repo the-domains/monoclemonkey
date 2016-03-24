@@ -4,7 +4,7 @@
         <description><![CDATA[monoclemonkey]]></description>
         <link>https://thegrid.ai/monoclemonkey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 21:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 21:57:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/monoclemonkey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Redbubble Marketplace]]></title>
@@ -13,6 +13,13 @@ Photos available as wall art and some other unique gifts through redbubble.com. 
             <link>https://thegrid.ai/monoclemonkey/photos-available-as-wall-art-and-some-other-unique-gifts-th/index.html</link>
             <guid isPermaLink="false">aaad5718-56d1-4705-b394-4177d6c6a8af</guid>
             <pubDate>Thu, 24 Mar 2016 20:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monkeying with MOO Monogram]]></title>
+            <description><![CDATA[<article><h1>Monkeying with MOO Monogram</h1><p>Experimenting with MOO Monogram</p></article>]]></description>
+            <link>https://thegrid.ai/monoclemonkey/monkeying-with-moo-monogram/index.html</link>
+            <guid isPermaLink="false">65157068-f514-4a45-b8b0-bd83db27f084</guid>
+            <pubDate>Thu, 24 Mar 2016 21:57:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Monogram - Eric E Johnson]]></title>
@@ -69,13 +76,6 @@ Photos available as wall art and some other unique gifts through redbubble.com. 
             <link>https://thegrid.ai/monoclemonkey/4e0a1e32-5fcf-4c46-8e64-4502f1d05024/index.html</link>
             <guid isPermaLink="false">4e0a1e32-5fcf-4c46-8e64-4502f1d05024</guid>
             <pubDate>Thu, 24 Mar 2016 20:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Throwback NASA Posters]]></title>
-            <description><![CDATA[<article><h1>Throwback NASA Posters</h1><p>Fourteen space travel posters of colorful, exotic space settings are now available free for downloading and printing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d6ba78252f84a82614ad431a20a8803d2daf5ae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/monoclemonkey/throwback-nasa-posters/index.html</link>
-            <guid isPermaLink="false">8a36c299-bb42-4e7e-92bf-6e9bd227dcf5</guid>
-            <pubDate>Thu, 24 Mar 2016 20:06:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
