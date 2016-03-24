@@ -1,7 +1,7 @@
 name: monoclemonkey
 favicon: null
-layout_spectrum: 0.41492
-typography_spectrum: 0.3387097
+layout_spectrum: 0
+typography_spectrum: 0.43757
 collections:
   - index:
       path: /
@@ -33,7 +33,7 @@ color:
     - '#2c2c2e'
     - '#6687ad'
     - '#495a6f'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 1
