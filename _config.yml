@@ -1,28 +1,40 @@
-name: monoclemonkey
-favicon: null
-layout_spectrum: 0.9718921731691808
-typography_spectrum: 0.351404415210709
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2562724
+  brandStrength: 0.3054906288161874
+  lightness: 0
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3054906288161874
-  lightness: 0.15150703652761877
-  saturation: 0.5272161159664392
-  rhythmicContrast: 0.6851700993720442
-purpose: []
+  rhythmicContrast: 0.05734767
+typography_spectrum: 0.3387097
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.172043
+favicon: null
+name: monoclemonkey
