@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Experimenting with MOO Monogram
-datePublished: '2016-03-24T21:57:26.808Z'
-dateModified: '2016-03-24T21:57:00.035Z'
+datePublished: '2016-03-24T22:06:09.070Z'
+dateModified: '2016-03-24T22:06:04.644Z'
 title: Monkeying with MOO Monogram
 author: []
+sourcePath: _posts/2016-03-24-monkeying-with-moo-monogram.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-monkeying-with-moo-monogram.md
-published: true
 url: monkeying-with-moo-monogram/index.html
 _type: Article
 
@@ -28,4 +28,4 @@ _type: Article
 
 [Experimenting with MOO Monogram][0]
 
-[0]: https://monogram.me/m/nwufss
+[0]: null
